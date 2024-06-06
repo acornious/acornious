@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://github.com/acornious/acornfries/assets/153128752/b781e53e-e7f0-48db-8870-45eaa1241c4f">
+<img width="400" height="400" src="https://github.com/acornious/acornfries/assets/153128752/b781e53e-e7f0-48db-8870-45eaa1241c4f">
 </p>
 
 <p align="center">
