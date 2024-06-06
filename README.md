@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="85" height="100" src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif"> <img width="320" height="150" src="https://github.com/acornious/acornious/assets/153128752/c573be27-cbd9-42cd-a2d7-b22fbeb50664">  <img width="85" height="100" src="https://iili.io/JWCb3Zl.gif">
+  <img width="85" height="100" src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif"> <img width="320" height="150" src="https://github.com/acornious/acornious/assets/153128752/dc2efb5b-a9fc-47f5-a713-48ed4694657b">  <img width="85" height="100" src="https://iili.io/JWCb3Zl.gif">
 </p>
 
 <p align="center">
