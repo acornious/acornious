@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/acornfries/acornfries/assets/171696556/70be95a0-ab0d-455e-ad62-ab81847d9359">
+  <img src="https://github.com/acornious/acornfries/assets/153128752/cdaf9b82-999a-4172-aca0-ed14ea91bb55">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<img width="500" height="70" src="https://github.com/acornfries/acornfries/assets/171696556/1716c087-7ab5-4ae4-9564-a4e4ab446f00">
+<img width="500" height="70" src="https://github.com/acornious/acornfries/assets/153128752/cdaf9b82-999a-4172-aca0-ed14ea91bb55">
 </p>
 
 <p align="center">
