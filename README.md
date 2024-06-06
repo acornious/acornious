@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img width="97" height="105" src="https://github.com/acornious/acornious/assets/153128752/8d07897e-ef92-41e2-8954-837c13be50ce"> <img width="80" height="40" src="https://github.com/acornious/acornious/assets/153128752/7a2601a7-7e6d-47a5-8dc3-3df79a880fa7"> <img width="130" height="140" src="https://github.com/acornious/acornious/assets/153128752/470b37d1-ec0f-42e5-8d52-4fee79f6365a">
+<img width="60" height="60" src="https://github.com/acornious/acornious/assets/153128752/4172b253-d7c2-4c9c-9f2f-5fea0368d238"> <img width="80" height="40" src="https://github.com/acornious/acornious/assets/153128752/7a2601a7-7e6d-47a5-8dc3-3df79a880fa7"> <img width="60" height="60" src="https://github.com/acornious/acornious/assets/153128752/4172b253-d7c2-4c9c-9f2f-5fea0368d238">
 </p>
 
 <p align="center">
