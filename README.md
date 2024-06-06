@@ -20,15 +20,15 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/acornfries/acornfries/assets/171696556/83462eee-481c-441a-bf4f-690fe7e6136c">
+<img src="https://github.com/acornious/acornfries/assets/153128752/95b3ca47-41a3-4c00-9476-219cebf570e5">
 </p>
 
 <p align="center">
-<img width="500" height="70" src="https://github.com/acornious/acornfries/assets/153128752/cdaf9b82-999a-4172-aca0-ed14ea91bb55">
+<img width="500" height="70" src="https://pix.crd.co/assets/images/gallery22/3280dbc6_original.gif?v=cf5fcef5">
 </p>
 
 <p align="center">
-<img width="500" height="40" src="https://github.com/acornfries/acornfries/assets/171696556/b4e0c0ce-da8e-4129-97d9-13640980550b">
+<img width="500" height="40" src="https://pix.crd.co/assets/images/gallery22/3280dbc6_original.gif?v=cf5fcef5">
 </p>
 
 <p align="center">
