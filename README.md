@@ -31,6 +31,3 @@
 <img width="500" height="40" src="https://github.com/acornious/acornfries/assets/153128752/291c1842-52b4-4162-a2d2-5043961acf23">
 </p>
 
-<p align="center">
-<img src="https://github.com/acornious/acornfries/assets/153128752/edc740fa-933e-4991-8563-c2b268d6c19a"> <img src="https://https://github.com/acornious/acornfries/assets/153128752/a1f62e1a-f907-4b67-acf6-044e9dc6e99e"> <img src="https://github.com/acornious/acornfries/assets/153128752/16c81e8f-5edd-4319-9a3d-c3d2e628b654"> <img src="https://github.com/acornious/acornfries/assets/153128752/d9275f9b-0282-4139-9c0b-a7ff5c8ea594"> <img src="https://github.com/acornious/acornfries/assets/153128752/17ca57ad-031f-4036-9d6c-23d65b059d67"> <img src="https://github.com/acornfries/acornfries/assets/171696556/6b67172e-c6f0-425c-8a66-5104c78cf248"> <img src="https://github.com/acornfries/acornfries/assets/171696556/f7d5ff43-6cd1-4c4e-9898-fbbca3fd3738"> <img src="https://github.com/acornious/acornfries/assets/153128752/2083d8d9-1439-4fc6-8b85-f29c12c3a7fb"> <img src="https://github.com/acornious/acornfries/assets/153128752/1821e759-4fc0-4786-860c-67528a4875ef"> <img src="https://github.com/acornious/acornfries/assets/153128752/05cca25b-6c30-4edc-88b5-d1fb8435cbe2">
-</p>
