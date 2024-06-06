@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/acornious/acornfries/assets/153128752/ff191355-b3bb-4f3c-aeb5-abad5692710a">
+  <img width="650" height="80" src="https://github.com/acornious/acornfries/assets/153128752/ff191355-b3bb-4f3c-aeb5-abad5692710a">
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/acornious/acornfries/assets/153128752/95b3ca47-41a3-4c00-9476-219cebf570e5">
+<img width="550" height="70" src="https://github.com/acornious/acornfries/assets/153128752/291c1842-52b4-4162-a2d2-5043961acf23">
 </p>
 
 <p align="center">
-<img width="500" height="70" src="https://github.com/acornious/acornfries/assets/153128752/291c1842-52b4-4162-a2d2-5043961acf23">
+<img width="500" height="70" src="https://github.com/acornious/acornfries/assets/153128752/95b3ca47-41a3-4c00-9476-219cebf570e5">
 </p>
 
 <p align="center">
-<img width="500" height="40" src="https://pix.crd.co/assets/images/gallery22/3280dbc6_original.gif?v=cf5fcef5">
+<img width="500" height="40" src="https://github.com/acornious/acornfries/assets/153128752/291c1842-52b4-4162-a2d2-5043961acf23">
 </p>
 
 <p align="center">
