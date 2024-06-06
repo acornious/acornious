@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/acornious/acornfries/assets/153128752/cdaf9b82-999a-4172-aca0-ed14ea91bb55">
+  <img src="https://github.com/acornious/acornfries/assets/153128752/ff191355-b3bb-4f3c-aeb5-abad5692710a">
 </p>
 
 <p align="center">
