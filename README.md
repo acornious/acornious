@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/acornfries/acornfries/assets/171696556/f83a6524-5f50-49b5-afbc-0969f751f599">
+<img src="https://github.com/acornious/acornfries/assets/153128752/e7331d8b-2e5c-494c-8fd0-a323b3c4c42b">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/acornfries/acornfries/assets/171696556/f83a6524-5f50-49b5-afbc-0969f751f599">
+<img src="https://github.com/acornious/acornfries/assets/153128752/e7331d8b-2e5c-494c-8fd0-a323b3c4c42b">
 </p>
 
 <p align="center">
