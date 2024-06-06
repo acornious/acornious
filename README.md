@@ -6,12 +6,13 @@
 <img src="https://github.com/acornious/acornfries/assets/153128752/e7331d8b-2e5c-494c-8fd0-a323b3c4c42b">
 </p>
 
+
 <p align="center">
-  <img src="https://github.com/acornfries/acornfries/assets/171696556/e7a90aa3-04b5-481e-9f94-4f50fb9f5a65">
+<img src="https://github.com/acornious/acornfries/assets/153128752/e7331d8b-2e5c-494c-8fd0-a323b3c4c42b">
 </p>
 
 <p align="center">
-  <img width="85" height="100" src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif"> <img src="https://github.com/acornfries/acornfries/assets/171696556/170c2df8-1d4e-493c-8af7-756ecde9fa28">  <img width="85" height="100" src="https://iili.io/JWCb3Zl.gif">
+  <img width="85" height="100" src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif"> <img width="320" height="150" src="https://github.com/acornious/acornfries/assets/153128752/0c962372-7e92-40d9-a3be-500b49f4ae6c">  <img width="85" height="100" src="https://iili.io/JWCb3Zl.gif">
 </p>
 
 <p align="center">
