@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<img width="550" height="70" src="https://github.com/acornious/acornfries/assets/153128752/291c1842-52b4-4162-a2d2-5043961acf23">
+<img width="550" height="70" src="https://github.com/acornious/acornfries/assets/153128752/19f685e5-2f22-48bd-9ba9-db6eaf5d0127">
 </p>
 
 <p align="center">
