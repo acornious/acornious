@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<img width="500" height="70" src="https://pix.crd.co/assets/images/gallery22/3280dbc6_original.gif?v=cf5fcef5">
+<img width="500" height="70" src="https://github.com/acornious/acornfries/assets/153128752/291c1842-52b4-4162-a2d2-5043961acf23">
 </p>
 
 <p align="center">
