@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-<img width="500" height="40" src="https://github.com/acornious/acornfries/assets/153128752/291c1842-52b4-4162-a2d2-5043961acf23">
+<img width="500" height="40" src="https://github.com/acornious/acornious/assets/153128752/5cb1ff8b-3668-4053-acdc-0ff87647eba3">
 </p>
 
 <p align="center">
