@@ -48,3 +48,7 @@
 <p align="center">
 <img src="https://github.com/acornious/acornious/assets/153128752/24871fde-7915-40b4-a9a6-77493dd16231">
 </p>
+
+<p align="center">
+<a href="http://users2.smartgb.com/g/g.php?a=s&amp;i=g26-39650-16"><img alt="Guestbook" border="0" src="http://extras2.smartgb.com/b/gb_80x40.gif" width="80" height="40"/></a>
+</p>
