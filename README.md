@@ -8,5 +8,3 @@ wip
 
 ![](https://github.com/user-attachments/assets/4572d403-357f-49e3-bc3b-75feffbbb28b)
 ![](https://github.com/user-attachments/assets/50ee70aa-1de2-482e-bea3-f2b708844a12)
-
-<p align="center"><img src="https://github.com/user-attachments/assets/5ec8c6fc-2c94-4a0c-b8a4-aa45cae19932" /></p> <p align="center"><img src="https://github.com/user-attachments/assets/d605b816-6a40-423b-88ed-31a2e032cb7c" /></p> <p align="center"><img src="https://github.com/user-attachments/assets/0cde3c85-849e-4141-9476-926c803c548a" /></p>
