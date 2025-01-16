@@ -4,9 +4,7 @@ wip
 <p align="center"><img src="https://github.com/user-attachments/assets/5ec8c6fc-2c94-4a0c-b8a4-aa45cae19932"/><img src="https://github.com/user-attachments/assets/d605b816-6a40-423b-88ed-31a2e032cb7c"><img src="https://github.com/user-attachments/assets/0cde3c85-849e-4141-9476-926c803c548a"/></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/a041ba4f-ae5c-477b-b807-126e58bbd244" /></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/4572d403-357f-49e3-bc3b-75feffbbb28b" /></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/18ca523e-9734-4d24-ae4f-15d2395dec46" /><img src="https://github.com/user-attachments/assets/b173efc1-dd14-42c0-90ab-7d633a237688" /></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/9bbf3a99-8d8c-4ccd-abec-669f10a004e7" /></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/a9b80aef-9186-466d-beb5-f35d0241f30a" /><img src="https://github.com/user-attachments/assets/4f1d7308-7d4c-46ee-b5f1-4513db3a3f90" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/18ca523e-9734-4d24-ae4f-15d2395dec46" /><a href="https://rentry.co/furofushi"><img src="https://github.com/user-attachments/assets/b173efc1-dd14-42c0-90ab-7d633a237688" /></a></p>
+<p align="center"><a href="https://rentry.co/furofushi"><img src="https://github.com/user-attachments/assets/9bbf3a99-8d8c-4ccd-abec-669f10a004e7" /></a></p>
+<p align="center"><a href="https://rentry.co/furofushi"><img src="https://github.com/user-attachments/assets/a9b80aef-9186-466d-beb5-f35d0241f30a" /></a><img src="https://github.com/user-attachments/assets/4f1d7308-7d4c-46ee-b5f1-4513db3a3f90" /></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/50ee70aa-1de2-482e-bea3-f2b708844a12" /></p>
-
-https://github.com/user-attachments/assets/fd0fd99c-a49f-4e9c-92fd-39c933476027
