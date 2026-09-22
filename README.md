@@ -3,6 +3,6 @@
 Acorn⠀⠀♡⠀⠀kin⠀⠀name⠀⠀𓋜⠀⠀118⠀⠀☆⠀⠀he
   </p>
 <p align="center">
-[ata](https://acornious.atabook.org/) [rentry](https://rentry.co/acornmouche) [dc server](https://discord.gg/acornious)
+[ata](https://acornious.atabook.org) [rentry](https://rentry.co/acornmouche) [dc server](https://discord.gg/acornious)
 </p>
 <img width="1280" height="497" alt="Image" src="https://github.com/user-attachments/assets/ce897ea0-08dd-41ab-9359-01e1268f196c" />
